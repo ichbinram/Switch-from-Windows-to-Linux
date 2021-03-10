@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "4e778e5da2b91e8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa130dc712641bb5",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Why Linux!!.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7731830c9eab7ea5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0760211deaf31ffd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d256ec52895d9995",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1612d41a362707b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f71452f5c319aad5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2a99a41d35c220b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75267c21eb53c5a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Why Linux!!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223
+  },
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
