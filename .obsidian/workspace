@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Why Linux!!.md",
+            "file": "List of Apps.md",
             "mode": "source"
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f71452f5c319aad5",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why Linux!!.md",
+                "file": "List of Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +86,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "List of Apps.md",
     "Why Linux!!.md",
     "Untitled.md"
   ]
