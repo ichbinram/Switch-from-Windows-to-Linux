@@ -5,4 +5,4 @@
 - It can play games (Although few games refuse to run on it).
 - It is by far the best environment for coding and programming.
 - It gives you a lot of customization options, ranging from changing your desktop environment to using a custom kernel.
-- There are a lot of distribution to choose from, so you are not stuck with one operating system for the rest of your life (You also can basically customize one distro to look like another). Which also means, distro-hopping is a thing.
+- There are a lot of distribution to choose from, so you are not stuck with one operating system for the rest of your life (You also can basically customize one distro to look like another). Which also means, distro-hopping is a thing. 
