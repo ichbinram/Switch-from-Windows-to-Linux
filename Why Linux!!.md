@@ -15,3 +15,4 @@
 - Hot keys or few commands you learned on Windows.
 - Features like Cortana, if you are into that kind of stuff.
 - Adobe creative suite is not available on Linux, if your workflow revolves around this product, maybe you shouldn't switch to Linux. Or maybe change your workflow! :P
+- If you are on a laptop, the built in windows hello features and trackpad gestures.

@@ -19,3 +19,4 @@ Music streaming service | Spotify | Spotify
 Gaming services | XBOX app/Steam/Epic | Steam/[Lutris](https://github.com/lutris/lutris/wiki)
 VPN | surfshark | surfshark
 Game development tool | Unity | Unity for Linux
+Communication | Discord | Discord
