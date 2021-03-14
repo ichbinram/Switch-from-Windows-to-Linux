@@ -16,3 +16,4 @@
 - Features like Cortana, if you are into that kind of stuff.
 - Adobe creative suite is not available on Linux, if your workflow revolves around this product, maybe you shouldn't switch to Linux. Or maybe change your workflow! :P
 - If you are on a laptop, the built in windows hello features and trackpad gestures.
+- Native support of third party peripheral softwares which allows you to control the RGB on the keyboard and mouse. However, there are open drivers and software alternative but they can be little painful to use.
