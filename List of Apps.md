@@ -4,7 +4,7 @@ The apps I plan to use on linux are mostly free and open source, but few service
 App | Windows | Linux 
 --- | --- | ---
 Video editing | Adobe Premier Pro | Da Vinci Resolve or KDEN live
-Digital Audio workstation | Cakewalk by bandlabs | [LMMS](https://github.com/LMMS/lmms)
+Digital Audio workstation | Cakewalk by bandlabs | Audacity, Ardour, [LMMS](https://github.com/LMMS/lmms)
 Photo editing | Adobe Photoshop | GIMP/Inkscape
 Vector graphics | Adobe Illustrator | Inkscape
 Office Suite | Open Office | Libre Office/Open Office/Free Office
