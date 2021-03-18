@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "List of Apps.md",
+            "file": "Linux Distro.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List of Apps.md",
+                "file": "Linux Distro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,9 +87,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "List of Apps.md",
-    "Why Linux!!.md",
     "Linux Distro.md",
+    "Why Linux!!.md",
+    "List of Apps.md",
     "Untitled.md"
   ]
 }

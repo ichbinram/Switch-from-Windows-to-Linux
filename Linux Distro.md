@@ -10,3 +10,16 @@
 - I have been using Pop!\_OS on my laptop ever since. But recently, I bought a surface laptop which actually integrates well with Windows and I did not want to mess with my newly bought laptop so I decided that I will be installing linux on my PC which could potentially increase my productivity.
 - I have been on debian based system forever and would like to try out Arch based distros. My experience with arch has been mostly negative. I tried to use Arch on WSL(Windows Subsystem for Linux) but I could never understand the way it handled user permissions. It is also important to note that Windows does not support Arch as a subsystem. Having said that, I have only heard great things about arch and would like to learn more about it.
 - I would be going with Arch based distro =="Manjaro"== for this project. 
+
+# Installing Manjaro
+These are the few references I used to understand the installation of arch linux on my hardware. 
+https://www.youtube.com/watch?v=DPLnBPM4DhI
+[Arch Wiki](https://wiki.archlinux.org/index.php/Installation_guide)
+
+## Creating bootable USB
+Before installing the OS, it is necessary to create a bootable USB. The .iso file of your choice can be downloaded on [Manjaro's](https://manjaro.org/download/) official website. 
+
+If you are on windows, I would recommend the tool [Balena Etcher](https://etcher.download/) to create a bootable USB. This is a crossplatform tool so it should also work on the other OS. Please do check their official website (Just click on the name above) for more information. This is a very reliable tool which has worked 100% of the times I have used. There are other tools like Rufus, but I have had problems with them in the past so I would stick with Etcher for this install.
+
+## Installation 
+If you choose the officially supported edition (XFCE, Plasma and Gnome) of manjaro, the installation is quite straight forward. The installation can also be done using CLI(Command line interface) with Manjaro Architect if you would like to customize what is being installed on the system (including the kernel version you would like). More information on the installation can be found on [Manjaro Wiki](https://wiki.manjaro.org/index.php/Installation_Guides).
