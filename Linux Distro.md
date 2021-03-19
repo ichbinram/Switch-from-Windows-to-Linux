@@ -24,3 +24,6 @@ If you are on windows, I would recommend the tool [Balena Etcher](https://etcher
 ## Installation 
 If you choose the officially supported edition (XFCE, Plasma and Gnome) of manjaro, the installation is quite straight forward. The installation can also be done using CLI(Command line interface) with Manjaro Architect if you would like to customize what is being installed on the system (including the kernel version you would like). More information on the installation can be found on [Manjaro Wiki](https://wiki.manjaro.org/index.php/Installation_Guides).
 For this install I will probably go with Plasma or Gnome as the desktop environment(DE) because I am quite familiar with these DE already.
+
+## Post Installation
+Once the standard installation is done, I will probably go with a tiling window manager(Awesome or Qtile). I am working on writing a config file for both of them, but running Linux on a vm on Windows(using the Hyper-V) is really a crappy experience. So I might do that after my switch to linux. I will make a seperate section when that happens.
