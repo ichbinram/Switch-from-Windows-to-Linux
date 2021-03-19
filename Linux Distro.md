@@ -27,3 +27,4 @@ For this install I will probably go with Plasma or Gnome as the desktop environm
 
 ## Post Installation
 Once the standard installation is done, I will probably go with a tiling window manager(Awesome or Qtile). I am working on writing a config file for both of them, but running Linux on a vm on Windows(using the Hyper-V) is really a crappy experience. So I might do that after my switch to linux. I will make a seperate section when that happens.
+Mounting the extra SSD and HDD I have on the pc would be another task I need to take care of, because I would want it to be automatically mounted rather than mounting it everytime I log on to the system.
